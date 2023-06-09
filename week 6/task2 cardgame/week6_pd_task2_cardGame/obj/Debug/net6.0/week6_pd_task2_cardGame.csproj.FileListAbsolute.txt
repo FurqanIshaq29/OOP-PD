@@ -1,0 +1,15 @@
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\bin\Debug\net6.0\week6_pd_task2_cardGame.exe
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\bin\Debug\net6.0\week6_pd_task2_cardGame.deps.json
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\bin\Debug\net6.0\week6_pd_task2_cardGame.runtimeconfig.json
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\bin\Debug\net6.0\week6_pd_task2_cardGame.dll
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\bin\Debug\net6.0\week6_pd_task2_cardGame.pdb
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\week6_pd_task2_cardGame.csproj.AssemblyReference.cache
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\week6_pd_task2_cardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\week6_pd_task2_cardGame.AssemblyInfoInputs.cache
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\week6_pd_task2_cardGame.AssemblyInfo.cs
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\week6_pd_task2_cardGame.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\week6_pd_task2_cardGame.dll
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\refint\week6_pd_task2_cardGame.dll
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\week6_pd_task2_cardGame.pdb
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\week6_pd_task2_cardGame.genruntimeconfig.cache
+C:\Users\Muhammad Taha Saleem\source\repos\week6_pd_task2_cardGame\week6_pd_task2_cardGame\obj\Debug\net6.0\ref\week6_pd_task2_cardGame.dll
